@@ -1,6 +1,6 @@
 # java在线商城系统Online Shopping Mall System
 # 前端：
-#     框架：Vue 3
+     框架：Vue 3
 #     UI组件库：Element Plus
 #     构建工具：Vite
 #     HTTP客户端：Axios
